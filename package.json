@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/npm/wrappy"
+    "url": "https://github.com/bisho1995/wrappy"
   },
-  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/), Bisvarup Mukherjee",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/npm/wrappy/issues"
+    "url": "https://github.com/bisho1995/wrappy/issues"
   },
-  "homepage": "https://github.com/npm/wrappy"
+  "homepage": "https://github.com/bisho1995/wrappy"
 }
